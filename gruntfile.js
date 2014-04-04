@@ -81,7 +81,7 @@ module.exports = function(grunt){
 	      options: {
 	        username: 'youremailadress',
 	        password: 'yourpassword',
-	        url: 'https://mrm.litmus.com',
+	        url: 'yourlitmusurl',
 	        clients: ['gmailnew', 'ffgmailnew', 'chromegmailnew', 'android22', 'android4', 'aolonline', 'androidgmailapp', 'ffaolonline', 'chromeaolonline', 'appmail5', 'appmail6', 'blackberry8900', 'blackberryhtml', 'androidgmailnew', 'androidoutlookcom', 'colorblind', 'messagelabs', 'iphone5s', 'ipadmini', 'postini', 'ipad', 'barracuda', 'outlookfilter', 'spamassassin3', 'gmailnewspam', 'yahoospam', 'aolonlinespam', 'gmailnew', 'ffgmailnew', 'chromegmailnew', 'iphone4', 'iphone5', 'iphonegmailnew', 'iphoneoutlookcom', 'notes6', 'notes7', 'notes8', 'notes85', 'ol2000', 'ol2002', 'ol2003', 'ol2007', 'ol2010', 'ol2011', 'outlookcom', 'ffoutlookcom', 'chromeoutlookcom', 'plaintext', 'symbians60', 'thunderbird3', 'thunderbirdlatest']
 	      }
 	    }
