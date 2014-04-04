@@ -1,0 +1,13 @@
+{
+  "name": "GruntEmail",
+  "version": "0.0.1",
+  "author": "Todd Fraser 2014",
+  "description": "Grunt file to process end of email build tasks",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-min": "~0.1.0",
+    "grunt-contrib-imagemin": "~0.5.0"
+  }
+}
