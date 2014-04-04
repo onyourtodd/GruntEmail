@@ -1,10 +1,14 @@
 GruntEmail
 ==========
 
-Grunt setup for use with email projects. 
+Grunt setup files, for use with email projects. 
 
 
 Currently setup to be the final step in building an email.
+
+
+Grunt merges tasks into one and does all the leg-work for you. All you have to do is type one beautiful command!
+
 
 
 Upon running, grunt will do the following:
@@ -21,8 +25,8 @@ Upon running, grunt will do the following:
 Instructions
 ------------
 
-npm install grunt –save-dev
+``npm install grunt –save-dev``
 
-cd to dir
+cd to the project directory
 
-grunt
+``grunt``
